@@ -12,6 +12,8 @@
 
 ### Краткая информация о данных
 Данные содержат резюме, выгруженные с сайта поиска вакансий hh.ru 
+- [Headhunter резюме](https://drive.google.com/file/d/1Ql-4jjaxG8vbyqg_Iw_LMQ57E1WG605z/view?usp=sharing)
+- [Данные о курсе валют](https://drive.google.com/file/d/11BfO9uR2U_W_rTYohqHKmoPge8GUDl3u/view?usp=sharing)
   
 ### Этапы работы над проектом  
 - Исследование структуры данных

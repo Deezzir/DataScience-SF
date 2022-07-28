@@ -10,3 +10,4 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-scienti
 ## Resume
 
 [My LinkedIn](https://www.linkedin.com/in/deezzir/)
+[My Kaggle](https://www.kaggle.com/iuriikondrakov)

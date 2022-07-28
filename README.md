@@ -9,4 +9,4 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-scienti
 
 ## Resume
 
-[My ePortfolio](https://sites.google.com/view/iurii-kondrakov/home)
+[My LinkedIn](https://www.linkedin.com/in/deezzir/)
